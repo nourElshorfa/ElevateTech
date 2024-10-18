@@ -1,0 +1,16 @@
+import React from 'react'
+
+export default function About() {
+  return <>
+   <h1 className='text-3xl font-bold my-5'>About Us...</h1>
+   <p className='tracking-wider text-xl  text-clip my-5 bg-gradient-to-tr bg-clip-text from-red-700 to-blue-700 text-transparent'>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Consequatur ad necessitatibus eum et! Atque numquam necessitatibus natus neque distinctio sint excepturi explicabo, voluptatibus ad? Repellendus nulla accusamus dolores optio! Repudiandae? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus debitis dicta nulla officiis expedita asperiores? Cupiditate, architecto sapiente neque mollitia culpa dolorum facere! Pariatur aut delectus aliquam inventore neque hic?</p>
+
+   <p className='tracking-wider text-lg  text-clip my-5 bg-gradient-to-tr bg-clip-text from-red-700 to-blue-700 text-transparent'>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Consequatur ad necessitatibus eum et! Atque numquam necessitatibus natus neque distinctio sint excepturi explicabo, voluptatibus ad? Repellendus nulla accusamus dolores optio! Repudiandae? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus debitis dicta nulla officiis expedita asperiores? Cupiditate, architecto sapiente neque mollitia culpa dolorum facere! Pariatur aut delectus aliquam inventore neque hic?</p>
+
+   <p className='tracking-wider text-lg  text-clip my-5 bg-gradient-to-tr bg-clip-text from-red-700 to-blue-700 text-transparent'>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Consequatur ad necessitatibus eum et! Atque numquam necessitatibus natus neque distinctio sint excepturi explicabo, voluptatibus ad? Repellendus nulla accusamus dolores optio! Repudiandae? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus debitis dicta nulla officiis expedita asperiores? Cupiditate, architecto sapiente neque mollitia culpa dolorum facere! Pariatur aut delectus aliquam inventore neque hic?</p>
+
+   <p className='tracking-wider text-lg  text-clip my-5 bg-gradient-to-tr bg-clip-text from-red-700 to-blue-700 text-transparent'>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Consequatur ad necessitatibus eum et! Atque numquam necessitatibus natus neque distinctio sint excepturi explicabo, voluptatibus ad? Repellendus nulla accusamus dolores optio! Repudiandae? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus debitis dicta nulla officiis expedita asperiores? Cupiditate, architecto sapiente neque mollitia culpa dolorum facere! Pariatur aut delectus aliquam inventore neque hic?</p>
+
+   <p className='tracking-wider text-lg  text-clip my-5 bg-gradient-to-tr bg-clip-text from-red-700 to-blue-700 text-transparent'>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Consequatur ad necessitatibus eum et! Atque numquam necessitatibus natus neque distinctio sint excepturi explicabo, voluptatibus ad? Repellendus nulla accusamus dolores optio! Repudiandae? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus debitis dicta nulla officiis expedita asperiores? Cupiditate, architecto sapiente neque mollitia culpa dolorum facere! Pariatur aut delectus aliquam inventore neque hic?</p>
+  </>
+}
